@@ -873,3 +873,11 @@ body {
     color: black;
     
 }
+
+@media (max-width: 767px /* @screen-xs-max */) { 
+ 
+    header {
+     height: 600px;   
+    }
+
+}
